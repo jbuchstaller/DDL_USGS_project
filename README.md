@@ -1,7 +1,7 @@
 # DDL_USGS_project
-Visualizing rare earth element (REE) deposit locations and mining operations
+<h4>Visualizing rare earth element (REE) deposit locations and mining operations</h4>
 
-Goal:
+<h4>Goal</h4>:
 REEs are heavily used in smartphones, general consumer electronics and magnets. Experts predict a shortage of some of these elements over the next years, giving increasing consumption (http://energy.gov/sites/prod/files/edg/news/documents/criticalmaterialsstrategy.pdf) . It is therefore of interest to learn more about the locations of REE deposits and the success of ongoing mining operations as well as to determine which factors could predict the location of REEs.
 
 1) folder: "REE_actual_mining_choropleth_map"
