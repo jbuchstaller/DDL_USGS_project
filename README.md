@@ -2,7 +2,7 @@
 Visualizing rare earth element (REE) deposit locations and mining operations
 
 Goal:
-REEs are heavily used in smartphones, general consumer electronics and magnets. Experts predict a shortage of some of these elements over the next years, giving increasing consumption (http://energy.gov/sites/prod/files/edg/news/documents/criticalmaterialsstrategy.pdf) . It is therefore of interest to know more about the locations of deposits of these elements, the success of ongoing mining operations and determine which factors could predict the location of REEs.
+REEs are heavily used in smartphones, general consumer electronics and magnets. Experts predict a shortage of some of these elements over the next years, giving increasing consumption (http://energy.gov/sites/prod/files/edg/news/documents/criticalmaterialsstrategy.pdf) . It is therefore of interest to learn more about the locations of REE deposits and the success of ongoing mining operations as well as to determine which factors could predict the location of REEs.
 
 1) folder: "REE_actual_mining_choropleth_map"
 
