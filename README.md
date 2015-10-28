@@ -21,3 +21,6 @@ Creates a world map visualizing locations of 15 types of REE deposits and summar
 
 Contains data files that were prepared to undertake predictive modelling
 
+
+R version 3.2.1
+
