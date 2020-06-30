@@ -25,3 +25,4 @@ Contains data files that were prepared to undertake predictive modelling
 
 R version 3.2.1
 
+DDL_USGS_project is licensed under the MIT License. See the LICENSE file in this directory for the full license text.
