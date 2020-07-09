@@ -5,7 +5,6 @@
 REEs are heavily used in smartphones, general consumer electronics and magnets. Experts predict a shortage of some of these elements over the next years, giving increasing consumption (http://energy.gov/sites/prod/files/edg/news/documents/criticalmaterialsstrategy.pdf) . <br>
 It is therefore of interest to learn more about the locations of REE deposits and the success of ongoing mining operations as well as to determine which factors could predict the location of REEs.
 
-
 1) folder: "REE_actual_mining_choropleth_map"
 
 Download the folder with all the files and run the file "server.R" in R-Studio, setting the working directory 
@@ -19,7 +18,7 @@ Download the folder with all the files and run the file "server.R" in R-Studio, 
 to the folder.
 Creates a world map visualizing locations of 15 types of REE deposits and summarizing the number of projects/ country. The user can indicate via a checkbox which element is of interest. Data was obtained from http://pubs.usgs.gov/of/2002/of02-189/
 
-3) folde: "REE_predictive_models"
+3) folder: "REE_predictive_models"
 
 Contains data files that were prepared to undertake predictive modelling
 
